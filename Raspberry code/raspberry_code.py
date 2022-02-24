@@ -42,12 +42,12 @@ for i in range (4):
 
 sleep(5)
 
+#Record for 30 seconds
 camera.start_recording('/home/pi/Desktop/video/video1.h264')
 sleep(30)
 camera.stop_recording()
 
 
-#TESTING
-#camera.stop_preview()
+
 
 
