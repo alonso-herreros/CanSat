@@ -1,0 +1,6 @@
+[submodule "raspberrypi"]
+	path = raspberrypi
+	url = https://github.com/alonso-herreros/CanSat-raspberrypi
+[submodule "arduino"]
+	path = arduino
+	url = https://github.com/alonso-herreros/CanSat-arduino
