@@ -1,0 +1,3 @@
+[submodule "raspberrypi"]
+	path = raspberrypi
+	url = https://github.com/alonso-herreros/CanSat-raspberrypi
