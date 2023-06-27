@@ -1,2 +1,2 @@
 # CanSat
-The Foreskins
+IES Alpajés's local team "Delta River" CanSat competition project
